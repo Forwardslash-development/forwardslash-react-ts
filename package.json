@@ -1,0 +1,8 @@
+{
+  "name": "forwardslash-react-ts",
+  "version": "1.0.0",
+  "description": "React application with typescript",
+  "main": "src/index.tsx",
+  "author": "Forwardslash-development <forwardslash.development@gmail.com>",
+  "license": "MIT"
+}
