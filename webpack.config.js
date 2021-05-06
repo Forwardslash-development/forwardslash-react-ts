@@ -50,4 +50,4 @@ module.exports = {
         compress: true,
         open: true,
     },
-}
+};

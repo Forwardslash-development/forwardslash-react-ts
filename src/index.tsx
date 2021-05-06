@@ -1,7 +1,11 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
+import React from 'react';
+import { render } from 'react-dom';
 
-ReactDOM.render( 
-    <div> Forwardslash Development React TS App</div>, 
-    document.getElementById('root')
-  );
+function App() {
+    return (
+        <div>
+            <h2>Forwardslash Development React TS Application</h2>
+        </div>
+    );
+}
+render(<App />, document.getElementById('root'));
